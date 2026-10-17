@@ -1,0 +1,23 @@
+## Build and Output
+bin/
+obj/
+cache/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## CefSharp Runtime Natives
+*.nupkg
+libcef.dll
+*.pak
+*.dat
+*.bin
+*.log
+
+## OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
